@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Self_introduction-New/static/css/main.84445cd1.css",
+    "main.js": "/Self_introduction-New/static/js/main.3ff334c7.js",
+    "static/media/蕭浩廷.pdf": "/Self_introduction-New/static/media/蕭浩廷.e45750303284571d385b.pdf",
+    "static/media/cat-5.png": "/Self_introduction-New/static/media/cat-5.e5bac3dac4a6ced6f09d.png",
+    "static/media/work2.png": "/Self_introduction-New/static/media/work2.6432588e722e241bc0c4.png",
+    "static/media/work1.png": "/Self_introduction-New/static/media/work1.a7200acd8cfb938a2b92.png",
+    "static/media/work4.png": "/Self_introduction-New/static/media/work4.d57b8bfbb64b258f5423.png",
+    "static/media/work3.png": "/Self_introduction-New/static/media/work3.1c0fcf2f9699ebe65abd.png",
+    "static/media/cat-4.jpg": "/Self_introduction-New/static/media/cat-4.8cfc72944993aa891442.jpg",
+    "static/media/work5.jpg": "/Self_introduction-New/static/media/work5.094ec4a2224db8908873.jpg",
+    "index.html": "/Self_introduction-New/index.html",
+    "main.84445cd1.css.map": "/Self_introduction-New/static/css/main.84445cd1.css.map",
+    "main.3ff334c7.js.map": "/Self_introduction-New/static/js/main.3ff334c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84445cd1.css",
+    "static/js/main.3ff334c7.js"
+  ]
+}
