@@ -125,8 +125,6 @@
   color: var(--title-color);
 }
 
-/* ================= BREAKPOINTS ================= */
-/* For large devices*/
 @media screen and (max-width: 992px) {
   .home_content {
     grid-template-columns: 100px repeat(2, 1fr);
@@ -167,7 +165,7 @@
     margin-top: 20px;
   }
 }
-/* For medium devices*/
+
 @media screen and (max-width: 768px) {
   .home_content {
     grid-template-columns: 0.5fr 3fr;
@@ -191,7 +189,6 @@
   }
 }
 
-/* For small devices*/
 @media screen and (max-width: 350px) {
   .home_img {
     width: 180px;

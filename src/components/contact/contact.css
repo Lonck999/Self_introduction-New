@@ -40,7 +40,6 @@
   margin-top: 5px;
   color: var(--text-color);
 }
-/* ===================== FROM ===================== */
 
 form {
   display: flex;
@@ -59,8 +58,6 @@ textarea {
   color: var(--color-white);
 }
 
-/* ========================== MEDIA QUERIES (MEDIUM DEVICES) ========================== */
-
 @media screen and (max-width: 1024px) {
   .container.contact_container {
     gap: 2rem;
@@ -70,8 +67,6 @@ textarea {
     margin: 0 auto;
   }
 }
-
-/* ========================== MEDIA QUERIES (SMALL DEVICES) ========================== */
 
 @media screen and (max-width: 600px) {
   .container.contact_container {
