@@ -11,7 +11,7 @@ export const projectsData = [
     title: "個人自介網頁(第一版) |React|",
     category: "Web",
     github: "https://github.com/Lonck999/Self-introduction.git",
-    demo: "https://lonck999.github.io/Self_introduction-Old-1/#",
+    demo: "https://lonck999.github.io/Self_introduction-Old-1/#about",
   },
   {
     id: 2,
