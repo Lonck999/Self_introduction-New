@@ -76,9 +76,15 @@
     grid-template-columns: 1fr;
     row-gap: 2.5rem;
   }
+  .about_me-image {
+    transform: rotate(0);
+  }
 
   .about_img {
-    width: 220px;
+    width: 250px;
+  }
+  .about_me {
+    background: transparent;
   }
 
   .about_box {
