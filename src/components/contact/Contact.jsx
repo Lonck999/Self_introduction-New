@@ -29,34 +29,39 @@ const Contact = () => {
         <div className="contact_options">
           <article className="contact_option">
             <MdOutlineEmail className="contact_option-icon" />
-            <h4>Email</h4>
-            <h5>joe22053814@mail.com</h5>
-            <a href="mailto:joe22053814@gmail.com" target="_blank">
+            <a
+              className="contact_option-a"
+              href="mailto:joe22053814@gmail.com"
+              target="_blank"
+            >
+              <h4>Email</h4>
+              <h5>joe22053814@mail.com</h5>
               <br /> Send a message
             </a>
           </article>
           <article className="contact_option">
             <RiFacebookBoxFill className="contact_option-icon" />
-            <h4>Messenger</h4>
-            <h5>蕭浩廷</h5>
             <a
+              className="contact_option-a"
               href="https://www.facebook.com/profile.php?id=100001716027769"
               target="_blank"
             >
+              <h4>Messenger</h4>
+              <h5>蕭浩廷</h5>
               <br /> Send a message
             </a>
           </article>
           <article className="contact_option">
             <FaLine className="contact_option-icon" />
-            <h4>Line App</h4>
-            <h5>+886 989 204 737</h5>
-            <h5>ID:dola770816</h5>
             <a
               className="contact_option-a"
               href="https://line.me/ti/p/pPPEQLSyia"
               target="_blank"
             >
-              Send a message
+              <h4>Line App</h4>
+              <h5>+886 989 204 737</h5>
+              <h5>ID:dola770816</h5>
+              <p>Send a message</p>
             </a>
           </article>
         </div>

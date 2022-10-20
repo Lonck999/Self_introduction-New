@@ -38,6 +38,7 @@
 .contact_option-a {
   display: block;
   margin-top: 5px;
+  color: var(--text-color);
 }
 /* ===================== FROM ===================== */
 
