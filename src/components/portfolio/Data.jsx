@@ -47,6 +47,15 @@ export const projectsData = [
     github: "https://github.com/Anthya1104/ebook-fe",
     demo: "https://youtu.be/AHDZYN26cng?t=7758",
   },
+  {
+    id: 6,
+    image: Work4,
+    title: "Web Design",
+    category: "UI",
+    github:
+      "https://github.com/Lonck999/Portfolio/tree/master/ui/(%E9%81%B8%E5%96%AE%E6%96%87%E5%AD%97%E5%8B%95%E7%95%AB)Menu-Hover-Text-Animaation-Effects",
+    demo: "https://codepen.io/jwzizdkp-the-vuer/pen/abGMXZR",
+  },
 ];
 
 export const projectsNav = [
