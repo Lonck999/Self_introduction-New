@@ -3,6 +3,7 @@ import Work2 from "../../assets/work2.png";
 import Work3 from "../../assets/work3.png";
 import Work4 from "../../assets/work4.png";
 import Work5 from "../../assets/work5.jpg";
+import Work6 from "../../assets/work6.png";
 
 export const projectsData = [
   {
@@ -49,12 +50,11 @@ export const projectsData = [
   },
   {
     id: 6,
-    image: Work4,
-    title: "Web Design",
+    image: Work6,
+    title: "Menu_Hover_Background",
     category: "UI",
-    github:
-      "https://github.com/Lonck999/Portfolio/tree/master/ui/(%E9%81%B8%E5%96%AE%E6%96%87%E5%AD%97%E5%8B%95%E7%95%AB)Menu-Hover-Text-Animaation-Effects",
-    demo: "https://codepen.io/jwzizdkp-the-vuer/pen/abGMXZR",
+    github: "https://github.com/Lonck999/Menu_Hover-_Background",
+    demo: "https://lonck999.github.io/Menu_Hover-_Background/",
   },
 ];
 
