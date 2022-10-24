@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Self_introduction-New/static/css/main.fee669ae.css",
-    "main.js": "/Self_introduction-New/static/js/main.d7f5fb1f.js",
+    "main.js": "/Self_introduction-New/static/js/main.422a1e1d.js",
     "static/media/蕭浩廷.pdf": "/Self_introduction-New/static/media/蕭浩廷.095165e7128b935c5940.pdf",
     "static/media/cat-5.png": "/Self_introduction-New/static/media/cat-5.e5bac3dac4a6ced6f09d.png",
     "static/media/work6.png": "/Self_introduction-New/static/media/work6.ca013bc9b3b0a2e07dca.png",
@@ -13,10 +13,10 @@
     "static/media/work5.jpg": "/Self_introduction-New/static/media/work5.094ec4a2224db8908873.jpg",
     "index.html": "/Self_introduction-New/index.html",
     "main.fee669ae.css.map": "/Self_introduction-New/static/css/main.fee669ae.css.map",
-    "main.d7f5fb1f.js.map": "/Self_introduction-New/static/js/main.d7f5fb1f.js.map"
+    "main.422a1e1d.js.map": "/Self_introduction-New/static/js/main.422a1e1d.js.map"
   },
   "entrypoints": [
     "static/css/main.fee669ae.css",
-    "static/js/main.d7f5fb1f.js"
+    "static/js/main.422a1e1d.js"
   ]
 }
