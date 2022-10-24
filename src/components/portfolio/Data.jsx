@@ -34,7 +34,7 @@ export const projectsData = [
   {
     id: 4,
     image: Work4,
-    title: "Web Design",
+    title: "Menu Hover|HTML|CSS|",
     category: "UI",
     github:
       "https://github.com/Lonck999/Portfolio/tree/master/ui/(%E9%81%B8%E5%96%AE%E6%96%87%E5%AD%97%E5%8B%95%E7%95%AB)Menu-Hover-Text-Animaation-Effects",
@@ -51,7 +51,7 @@ export const projectsData = [
   {
     id: 6,
     image: Work6,
-    title: "Menu_Hover_Background",
+    title: "Menu_Hover_Background|HTML|CSS|JS|",
     category: "UI",
     github: "https://github.com/Lonck999/Menu_Hover-_Background",
     demo: "https://lonck999.github.io/Menu_Hover-_Background/",
