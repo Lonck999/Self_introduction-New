@@ -4,11 +4,10 @@
   gap: 2rem;
 }
 .experience_container > div {
-  background: var(--container-color);
   padding: 2.4rem 5rem;
   border-radius: 2rem;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  transition: var(--transition);
+  /* border: 1px solid rgba(0, 0, 0, 0.1); */
+  /* transition: var(--transition); */
 }
 
 .experience_container > div h3 {

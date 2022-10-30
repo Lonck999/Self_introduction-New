@@ -9,7 +9,7 @@ const Experience = () => {
       <span className="section_subtitle">My Experience</span>
 
       <div className="container experience_container">
-        <div className="experience_frontend">
+        <div className="experience_frontend sag">
           <h3>Frontend Development</h3>
           <div className="experience_content">
             <article className="experience_details">
@@ -58,7 +58,7 @@ const Experience = () => {
         </div>
         {/* EDN OF FRONTEND */}
 
-        <div className="experience_backend">
+        <div className="experience_backend sag">
           <h3>Backend Development</h3>
           <div className="experience_content">
             <article className="experience_details">

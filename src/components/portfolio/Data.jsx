@@ -51,7 +51,7 @@ export const projectsData = [
   {
     id: 6,
     image: Work6,
-    title: "Menu_Hover_Background|HTML|CSS|JS|",
+    title: "Menu_Hover_Bg|HTML|CSS|JS|",
     category: "UI",
     github: "https://github.com/Lonck999/Menu_Hover-_Background",
     demo: "https://lonck999.github.io/Menu_Hover-_Background/",
